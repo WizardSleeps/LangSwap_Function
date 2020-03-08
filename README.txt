@@ -1,6 +1,4 @@
-/*
-
-How to create a disassembled file:
+# How to create a disassembled file:
 
 1. Right click the source file (A) in the context menu
 2. From the context menu, select "Dissassemble" option, the Disassemble Job window will appear
@@ -14,5 +12,3 @@ When all goes good and well, you will be presented by an annotation of the code 
 @version 0.12.1
 Author: @WizardSleep (https://Twitter.com/WizardSleeps)
 https://GitHub.com/WizardSleeps
-
-*/
