@@ -10,5 +10,7 @@ disassembled file in a new Editor window (Titled: sourcefilenameXXXXX.lst, where
 When all goes good and well, you will be presented by an annotation of the code that is being wellfully explained.
 
 @version 0.12.1
-Author: @WizardSleep (https://Twitter.com/WizardSleeps)
+Author: @WizardSleep (https://Twitter.com/vLGuiden)
 https://GitHub.com/WizardSleeps
+
+Gith is cutie.
